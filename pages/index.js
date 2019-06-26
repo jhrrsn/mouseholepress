@@ -28,7 +28,7 @@ function Index() {
       <Player name="An Epoch" desc="Six Minutes" file="360_epoch" />
 
       <img className="footer" src="static/images/footer.png" srcSet="static/images/footer2x.png 2x" alt="Footer" />
-      <p>Music by <a href="https://twitter.com/fenixtao">Christopher Roberts</a></p>
+      <p>Music by <a href="https://soundcloud.com/christophermichaelroberts">Christopher Roberts</a></p>
       <p>Designed for <a href="https://mouseholepress.itch.io/the-artefact">The Artefact</a>, by <a href="https://twitter.com/mouseholepress">Jack Harrison</a></p>
       <p>Inspired by the <a href="http://lplade.github.io/skeleton-tomb/">Skeleton Tomb</a>, by <a href="https://resume.lplade.name">Larry Lade</a></p>
 
