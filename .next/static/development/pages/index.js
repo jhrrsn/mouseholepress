@@ -1049,7 +1049,7 @@ var Player = function Player(props) {
 
 function Index() {
   return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("main", {
-    className: "jsx-606444135",
+    className: "jsx-744646690",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16
@@ -1058,7 +1058,7 @@ function Index() {
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("link", {
     href: "https://fonts.googleapis.com/css?family=IM+Fell+French+Canon:400,400i&display=swap",
     rel: "stylesheet",
-    className: "jsx-606444135",
+    className: "jsx-744646690",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17
@@ -1068,31 +1068,10 @@ function Index() {
     src: "static/images/banner.png",
     srcSet: "static/images/banner2x.png 2x",
     alt: "Header",
-    className: "jsx-606444135",
+    className: "jsx-744646690" + " " + "header",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h1", {
-    className: "jsx-606444135",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }, "THE ARTEFACT"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h3", {
-    className: "jsx-606444135",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 20
-    },
-    __self: this
-  }, "Sounds of deep, forgotten places to be played as the years drift past."), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("hr", {
-    className: "jsx-606444135",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 21
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(Player, {
@@ -1101,7 +1080,7 @@ function Index() {
     file: "005_day",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 19
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(Player, {
@@ -1110,7 +1089,7 @@ function Index() {
     file: "010_week",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
+      lineNumber: 20
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(Player, {
@@ -1119,7 +1098,7 @@ function Index() {
     file: "020_month",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
+      lineNumber: 21
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(Player, {
@@ -1128,7 +1107,7 @@ function Index() {
     file: "040_year",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
+      lineNumber: 22
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(Player, {
@@ -1137,7 +1116,7 @@ function Index() {
     file: "060_decade",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 23
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(Player, {
@@ -1146,7 +1125,7 @@ function Index() {
     file: "120_century",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
+      lineNumber: 24
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(Player, {
@@ -1155,7 +1134,7 @@ function Index() {
     file: "180_centuries",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
+      lineNumber: 25
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(Player, {
@@ -1164,7 +1143,7 @@ function Index() {
     file: "240_millennium",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
+      lineNumber: 26
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(Player, {
@@ -1173,7 +1152,7 @@ function Index() {
     file: "300_age",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
+      lineNumber: 27
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(Player, {
@@ -1182,91 +1161,91 @@ function Index() {
     file: "360_epoch",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
+      lineNumber: 28
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
     src: "static/images/footer.png",
     srcSet: "static/images/footer2x.png 2x",
     alt: "Footer",
-    className: "jsx-606444135" + " " + "footer",
+    className: "jsx-744646690" + " " + "footer",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 30
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
+    className: "jsx-744646690",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 31
+    },
+    __self: this
+  }, "Music by ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+    href: "https://twitter.com/fenixtao",
+    className: "jsx-744646690",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 31
+    },
+    __self: this
+  }, "Christopher Roberts")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
+    className: "jsx-744646690",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 32
+    },
+    __self: this
+  }, "Designed for ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+    href: "https://mouseholepress.itch.io/the-artefact",
+    className: "jsx-744646690",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 32
+    },
+    __self: this
+  }, "The Artefact"), ", by ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+    href: "https://twitter.com/mouseholepress",
+    className: "jsx-744646690",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 32
+    },
+    __self: this
+  }, "Jack Harrison")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
+    className: "jsx-744646690",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 33
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
-    className: "jsx-606444135",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 34
-    },
-    __self: this
-  }, "Music by ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
-    href: "https://twitter.com/fenixtao",
-    className: "jsx-606444135",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 34
-    },
-    __self: this
-  }, "Christopher Roberts")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
-    className: "jsx-606444135",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 35
-    },
-    __self: this
-  }, "Designed for ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
-    href: "https://mouseholepress.itch.io/the-artefact",
-    className: "jsx-606444135",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 35
-    },
-    __self: this
-  }, "The Artefact"), ", by ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
-    href: "https://twitter.com/mouseholepress",
-    className: "jsx-606444135",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 35
-    },
-    __self: this
-  }, "Jack Harrison")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
-    className: "jsx-606444135",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 36
-    },
-    __self: this
   }, "Inspired by the ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
     href: "http://lplade.github.io/skeleton-tomb/",
-    className: "jsx-606444135",
+    className: "jsx-744646690",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
+      lineNumber: 33
     },
     __self: this
   }, "Skeleton Tomb"), ", by ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
     href: "https://resume.lplade.name",
-    className: "jsx-606444135",
+    className: "jsx-744646690",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
+      lineNumber: 33
     },
     __self: this
   }, "Larry Lade")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("br", {
-    className: "jsx-606444135",
+    className: "jsx-744646690",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 38
+      lineNumber: 35
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "606444135",
+    id: "744646690",
     __self: this
-  }, "body{background-color:#3B4252;text-align:center;font-family:'IM Fell French Canon',serif;color:#D8DEE9;}img{width:100%;}.footer{width:30%;}hr{width:50%;border:0;height:2px;background-image:linear-gradient(to right,rgba(76,86,106,0),rgba(76,86,106,0.75),rgba(76,86,106,0));margin:1em auto;}h1{font-size:400%;font-style:italic;margin:0 1em auto;}h2{margin-bottom:0.2em;}h3{font-size:0.9em;}a{color:#EBCB8B;-webkit-text-decoration:none;text-decoration:none;}p{font-size:0.8em;}p.desc{font-style:italic;margin-top:0;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9qZWhhcnJpc29uL0RldmVsb3BtZW50L21vdXNlaG9sZXByZXNzL3BhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQXNDeUIsQUFHbUMsQUFPYixBQUlELEFBSUEsQUFRSyxBQU1LLEFBSUosQUFJRixBQUtFLEFBSUUsVUFsQ3BCLEFBSVcsQ0FSWCxHQThCdUIsQ0FkSCxDQVVwQixBQVNBLEVBSWUsQ0E5QkYsQ0FhYixLQTdCb0IsS0FpQjhGLENBOEJsSCxFQXZCb0IsVUF2QndCLFFBd0I1QyxhQWFBLG9CQXBDZ0IsY0FDaEIsZ0NBZWtCLGdCQUNsQiIsImZpbGUiOiIvVXNlcnMvamVoYXJyaXNvbi9EZXZlbG9wbWVudC9tb3VzZWhvbGVwcmVzcy9wYWdlcy9pbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbImNvbnN0IFBsYXllciA9IHByb3BzID0+IChcbiAgPGRpdj5cbiAgICA8aDI+e3Byb3BzLm5hbWV9PC9oMj5cbiAgICA8cCBjbGFzc05hbWU9XCJkZXNjXCI+e3Byb3BzLmRlc2N9PC9wPlxuICAgIDxhdWRpbyBpZD17cHJvcHMuZmlsZX0gY29udHJvbHM+XG4gICAgICA8c291cmNlIHNyYz17XCJzdGF0aWMvYXVkaW8vXCIgKyBwcm9wcy5maWxlICsgXCIubXAzXCJ9IHR5cGU9XCJhdWRpby9tcGVnXCIvPlxuICAgICAgPHNvdXJjZSBzcmM9e1wic3RhdGljL2F1ZGlvL1wiICsgcHJvcHMuZmlsZSArIFwiLm9nZ1wifSB0eXBlPVwiYXVkaW8vb2dnXCIvPlxuICAgICAgWW91ciBicm93c2VyIGRvZXMgbm90IHN1cHBvcnQgdGhlIGF1ZGlvIHRhZy5cbiAgICA8L2F1ZGlvPlxuICAgIDxociAvPlxuICA8L2Rpdj5cbik7XG5cbmZ1bmN0aW9uIEluZGV4KCkge1xuICByZXR1cm4gKFxuICAgIDxtYWluPlxuICAgICAgPGxpbmsgaHJlZj1cImh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1JTStGZWxsK0ZyZW5jaCtDYW5vbjo0MDAsNDAwaSZkaXNwbGF5PXN3YXBcIiByZWw9XCJzdHlsZXNoZWV0XCIvPlxuICAgICAgPGltZyBzcmM9XCJzdGF0aWMvaW1hZ2VzL2Jhbm5lci5wbmdcIiBzcmNTZXQ9XCJzdGF0aWMvaW1hZ2VzL2Jhbm5lcjJ4LnBuZyAyeFwiIGFsdD1cIkhlYWRlclwiIC8+XG4gICAgICA8aDE+VEhFIEFSVEVGQUNUPC9oMT5cbiAgICAgIDxoMz5Tb3VuZHMgb2YgZGVlcCwgZm9yZ290dGVuIHBsYWNlcyB0byBiZSBwbGF5ZWQgYXMgdGhlIHllYXJzIGRyaWZ0IHBhc3QuPC9oMz5cbiAgICAgIDxociAvPlxuICAgICAgPFBsYXllciBuYW1lPVwiQSBEYXlcIiBkZXNjPVwiRml2ZSBTZWNvbmRzXCIgZmlsZT1cIjAwNV9kYXlcIiAvPlxuICAgICAgPFBsYXllciBuYW1lPVwiQSBXZWVrXCIgZGVzYz1cIlRlbiBTZWNvbmRzXCIgZmlsZT1cIjAxMF93ZWVrXCIgLz5cbiAgICAgIDxQbGF5ZXIgbmFtZT1cIkEgTW9udGhcIiBkZXNjPVwiVHdlbnR5IFNlY29uZHNcIiBmaWxlPVwiMDIwX21vbnRoXCIgLz5cbiAgICAgIDxQbGF5ZXIgbmFtZT1cIkEgWWVhclwiIGRlc2M9XCJGb3J0eSBTZWNvbmRzXCIgZmlsZT1cIjA0MF95ZWFyXCIgLz5cbiAgICAgIDxQbGF5ZXIgbmFtZT1cIkEgRGVjYWRlXCIgZGVzYz1cIk9uZSBNaW51dGVcIiBmaWxlPVwiMDYwX2RlY2FkZVwiIC8+XG4gICAgICA8UGxheWVyIG5hbWU9XCJBIENlbnR1cnlcIiBkZXNjPVwiVHdvIE1pbnV0ZXNcIiBmaWxlPVwiMTIwX2NlbnR1cnlcIiAvPlxuICAgICAgPFBsYXllciBuYW1lPVwiQ2VudHVyaWVzXCIgZGVzYz1cIlRocmVlIE1pbnV0ZXNcIiBmaWxlPVwiMTgwX2NlbnR1cmllc1wiIC8+XG4gICAgICA8UGxheWVyIG5hbWU9XCJBIE1pbGxlbm5pdW1cIiBkZXNjPVwiRm91ciBNaW51dGVzXCIgZmlsZT1cIjI0MF9taWxsZW5uaXVtXCIgLz5cbiAgICAgIDxQbGF5ZXIgbmFtZT1cIkFuIEFnZVwiIGRlc2M9XCJGaXZlIE1pbnV0ZXNcIiBmaWxlPVwiMzAwX2FnZVwiIC8+XG4gICAgICA8UGxheWVyIG5hbWU9XCJBbiBFcG9jaFwiIGRlc2M9XCJTaXggTWludXRlc1wiIGZpbGU9XCIzNjBfZXBvY2hcIiAvPlxuXG4gICAgICA8aW1nIGNsYXNzTmFtZT1cImZvb3RlclwiIHNyYz1cInN0YXRpYy9pbWFnZXMvZm9vdGVyLnBuZ1wiIHNyY1NldD1cInN0YXRpYy9pbWFnZXMvZm9vdGVyMngucG5nIDJ4XCIgYWx0PVwiRm9vdGVyXCIgLz5cbiAgICAgIDxwPk11c2ljIGJ5IDxhIGhyZWY9XCJodHRwczovL3R3aXR0ZXIuY29tL2Zlbml4dGFvXCI+Q2hyaXN0b3BoZXIgUm9iZXJ0czwvYT48L3A+XG4gICAgICA8cD5EZXNpZ25lZCBmb3IgPGEgaHJlZj1cImh0dHBzOi8vbW91c2Vob2xlcHJlc3MuaXRjaC5pby90aGUtYXJ0ZWZhY3RcIj5UaGUgQXJ0ZWZhY3Q8L2E+LCBieSA8YSBocmVmPVwiaHR0cHM6Ly90d2l0dGVyLmNvbS9tb3VzZWhvbGVwcmVzc1wiPkphY2sgSGFycmlzb248L2E+PC9wPlxuICAgICAgPHA+SW5zcGlyZWQgYnkgdGhlIDxhIGhyZWY9XCJodHRwOi8vbHBsYWRlLmdpdGh1Yi5pby9za2VsZXRvbi10b21iL1wiPlNrZWxldG9uIFRvbWI8L2E+LCBieSA8YSBocmVmPVwiaHR0cHM6Ly9yZXN1bWUubHBsYWRlLm5hbWVcIj5MYXJyeSBMYWRlPC9hPjwvcD5cblxuICAgICAgPGJyIC8+XG4gICAgICA8c3R5bGUganN4IGdsb2JhbD57YFxuICAgICAgICBib2R5IHtcbiAgICAgICAgXHRiYWNrZ3JvdW5kLWNvbG9yOiAjM0I0MjUyO1xuICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgICBmb250LWZhbWlseTogJ0lNIEZlbGwgRnJlbmNoIENhbm9uJywgc2VyaWY7XG4gICAgICAgICAgY29sb3I6ICNEOERFRTk7XG4gICAgICAgIH1cblxuICAgICAgICBpbWcge1xuICAgICAgICAgIHdpZHRoOiAxMDAlO1xuICAgICAgICB9XG5cbiAgICAgICAgLmZvb3RlciB7XG4gICAgICAgICAgd2lkdGg6IDMwJTtcbiAgICAgICAgfVxuXG4gICAgICAgIGhyIHtcbiAgICAgICAgICB3aWR0aDogNTAlO1xuICAgICAgICAgIGJvcmRlcjogMDtcbiAgICAgICAgICBoZWlnaHQ6IDJweDtcbiAgICAgICAgICBiYWNrZ3JvdW5kLWltYWdlOiBsaW5lYXItZ3JhZGllbnQodG8gcmlnaHQsIHJnYmEoNzYsIDg2LCAxMDYsIDApLCByZ2JhKDc2LCA4NiwgMTA2LCAwLjc1KSwgcmdiYSg3NiwgODYsIDEwNiwgMCkpO1xuICAgICAgICAgIG1hcmdpbjogMWVtIGF1dG87XG4gICAgICAgIH1cblxuICAgICAgICBoMSB7XG4gICAgICAgICAgZm9udC1zaXplOiA0MDAlO1xuICAgICAgICAgIGZvbnQtc3R5bGU6IGl0YWxpYztcbiAgICAgICAgICBtYXJnaW46IDAgMWVtIGF1dG87XG4gICAgICAgIH1cblxuICAgICAgICBoMiB7XG4gICAgICAgICAgbWFyZ2luLWJvdHRvbTogMC4yZW07XG4gICAgICAgIH1cblxuICAgICAgICBoMyB7XG4gICAgICAgICAgZm9udC1zaXplOiAwLjllbTtcbiAgICAgICAgfVxuXG4gICAgICAgIGEge1xuICAgICAgICAgIGNvbG9yOiAjRUJDQjhCO1xuICAgICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcbiAgICAgICAgfVxuXG4gICAgICAgIHAge1xuICAgICAgICAgIGZvbnQtc2l6ZTogMC44ZW07XG4gICAgICAgIH1cblxuICAgICAgICBwLmRlc2Mge1xuICAgICAgICAgIGZvbnQtc3R5bGU6IGl0YWxpYztcbiAgICAgICAgICBtYXJnaW4tdG9wOiAwO1xuICAgICAgICB9XG4gICAgICBgfTwvc3R5bGU+XG4gICAgPC9tYWluPlxuICApO1xufVxuXG5leHBvcnQgZGVmYXVsdCBJbmRleDtcbiJdfQ== */\n/*@ sourceURL=/Users/jeharrison/Development/mouseholepress/pages/index.js */"));
+  }, "body{background-color:#3B4252;text-align:center;font-family:'IM Fell French Canon',serif;color:#D8DEE9;}img{width:100%;}.header{margin-bottom:0;}.footer{width:30%;}hr{width:50%;border:0;height:2px;background-image:linear-gradient(to right,rgba(76,86,106,0),rgba(76,86,106,0.75),rgba(76,86,106,0));margin:1em auto;}h1{font-size:400%;font-style:italic;margin:0 1em auto;}h2{margin-bottom:0.2em;}h3{font-size:0.9em;}a{color:#EBCB8B;-webkit-text-decoration:none;text-decoration:none;}p{font-size:0.8em;}p.desc{font-style:italic;margin-top:0;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9qZWhhcnJpc29uL0RldmVsb3BtZW50L21vdXNlaG9sZXByZXNzL3BhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQW1DeUIsQUFHbUMsQUFPYixBQUlLLEFBSU4sQUFJQSxBQVFLLEFBTUssQUFJSixBQUlGLEFBS0UsQUFJRSxVQWxDcEIsQUFJVyxDQVpYLEdBa0N1QixDQWRILENBaEJwQixBQTBCQSxBQVNBLEVBSWUsQ0E5QkYsQ0FhYixLQWpDb0IsS0FxQjhGLENBOEJsSCxFQXZCb0IsVUEzQndCLFFBNEI1QyxhQWFBLG9CQXhDZ0IsY0FDaEIsZ0NBbUJrQixnQkFDbEIiLCJmaWxlIjoiL1VzZXJzL2plaGFycmlzb24vRGV2ZWxvcG1lbnQvbW91c2Vob2xlcHJlc3MvcGFnZXMvaW5kZXguanMiLCJzb3VyY2VzQ29udGVudCI6WyJjb25zdCBQbGF5ZXIgPSBwcm9wcyA9PiAoXG4gIDxkaXY+XG4gICAgPGgyPntwcm9wcy5uYW1lfTwvaDI+XG4gICAgPHAgY2xhc3NOYW1lPVwiZGVzY1wiPntwcm9wcy5kZXNjfTwvcD5cbiAgICA8YXVkaW8gaWQ9e3Byb3BzLmZpbGV9IGNvbnRyb2xzPlxuICAgICAgPHNvdXJjZSBzcmM9e1wic3RhdGljL2F1ZGlvL1wiICsgcHJvcHMuZmlsZSArIFwiLm1wM1wifSB0eXBlPVwiYXVkaW8vbXBlZ1wiLz5cbiAgICAgIDxzb3VyY2Ugc3JjPXtcInN0YXRpYy9hdWRpby9cIiArIHByb3BzLmZpbGUgKyBcIi5vZ2dcIn0gdHlwZT1cImF1ZGlvL29nZ1wiLz5cbiAgICAgIFlvdXIgYnJvd3NlciBkb2VzIG5vdCBzdXBwb3J0IHRoZSBhdWRpbyB0YWcuXG4gICAgPC9hdWRpbz5cbiAgICA8aHIgLz5cbiAgPC9kaXY+XG4pO1xuXG5mdW5jdGlvbiBJbmRleCgpIHtcbiAgcmV0dXJuIChcbiAgICA8bWFpbj5cbiAgICAgIDxsaW5rIGhyZWY9XCJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9SU0rRmVsbCtGcmVuY2grQ2Fub246NDAwLDQwMGkmZGlzcGxheT1zd2FwXCIgcmVsPVwic3R5bGVzaGVldFwiLz5cbiAgICAgIDxpbWcgY2xhc3NOYW1lPVwiaGVhZGVyXCIgc3JjPVwic3RhdGljL2ltYWdlcy9iYW5uZXIucG5nXCIgc3JjU2V0PVwic3RhdGljL2ltYWdlcy9iYW5uZXIyeC5wbmcgMnhcIiBhbHQ9XCJIZWFkZXJcIiAvPlxuICAgICAgPFBsYXllciBuYW1lPVwiQSBEYXlcIiBkZXNjPVwiRml2ZSBTZWNvbmRzXCIgZmlsZT1cIjAwNV9kYXlcIiAvPlxuICAgICAgPFBsYXllciBuYW1lPVwiQSBXZWVrXCIgZGVzYz1cIlRlbiBTZWNvbmRzXCIgZmlsZT1cIjAxMF93ZWVrXCIgLz5cbiAgICAgIDxQbGF5ZXIgbmFtZT1cIkEgTW9udGhcIiBkZXNjPVwiVHdlbnR5IFNlY29uZHNcIiBmaWxlPVwiMDIwX21vbnRoXCIgLz5cbiAgICAgIDxQbGF5ZXIgbmFtZT1cIkEgWWVhclwiIGRlc2M9XCJGb3J0eSBTZWNvbmRzXCIgZmlsZT1cIjA0MF95ZWFyXCIgLz5cbiAgICAgIDxQbGF5ZXIgbmFtZT1cIkEgRGVjYWRlXCIgZGVzYz1cIk9uZSBNaW51dGVcIiBmaWxlPVwiMDYwX2RlY2FkZVwiIC8+XG4gICAgICA8UGxheWVyIG5hbWU9XCJBIENlbnR1cnlcIiBkZXNjPVwiVHdvIE1pbnV0ZXNcIiBmaWxlPVwiMTIwX2NlbnR1cnlcIiAvPlxuICAgICAgPFBsYXllciBuYW1lPVwiQ2VudHVyaWVzXCIgZGVzYz1cIlRocmVlIE1pbnV0ZXNcIiBmaWxlPVwiMTgwX2NlbnR1cmllc1wiIC8+XG4gICAgICA8UGxheWVyIG5hbWU9XCJBIE1pbGxlbm5pdW1cIiBkZXNjPVwiRm91ciBNaW51dGVzXCIgZmlsZT1cIjI0MF9taWxsZW5uaXVtXCIgLz5cbiAgICAgIDxQbGF5ZXIgbmFtZT1cIkFuIEFnZVwiIGRlc2M9XCJGaXZlIE1pbnV0ZXNcIiBmaWxlPVwiMzAwX2FnZVwiIC8+XG4gICAgICA8UGxheWVyIG5hbWU9XCJBbiBFcG9jaFwiIGRlc2M9XCJTaXggTWludXRlc1wiIGZpbGU9XCIzNjBfZXBvY2hcIiAvPlxuXG4gICAgICA8aW1nIGNsYXNzTmFtZT1cImZvb3RlclwiIHNyYz1cInN0YXRpYy9pbWFnZXMvZm9vdGVyLnBuZ1wiIHNyY1NldD1cInN0YXRpYy9pbWFnZXMvZm9vdGVyMngucG5nIDJ4XCIgYWx0PVwiRm9vdGVyXCIgLz5cbiAgICAgIDxwPk11c2ljIGJ5IDxhIGhyZWY9XCJodHRwczovL3R3aXR0ZXIuY29tL2Zlbml4dGFvXCI+Q2hyaXN0b3BoZXIgUm9iZXJ0czwvYT48L3A+XG4gICAgICA8cD5EZXNpZ25lZCBmb3IgPGEgaHJlZj1cImh0dHBzOi8vbW91c2Vob2xlcHJlc3MuaXRjaC5pby90aGUtYXJ0ZWZhY3RcIj5UaGUgQXJ0ZWZhY3Q8L2E+LCBieSA8YSBocmVmPVwiaHR0cHM6Ly90d2l0dGVyLmNvbS9tb3VzZWhvbGVwcmVzc1wiPkphY2sgSGFycmlzb248L2E+PC9wPlxuICAgICAgPHA+SW5zcGlyZWQgYnkgdGhlIDxhIGhyZWY9XCJodHRwOi8vbHBsYWRlLmdpdGh1Yi5pby9za2VsZXRvbi10b21iL1wiPlNrZWxldG9uIFRvbWI8L2E+LCBieSA8YSBocmVmPVwiaHR0cHM6Ly9yZXN1bWUubHBsYWRlLm5hbWVcIj5MYXJyeSBMYWRlPC9hPjwvcD5cblxuICAgICAgPGJyIC8+XG4gICAgICA8c3R5bGUganN4IGdsb2JhbD57YFxuICAgICAgICBib2R5IHtcbiAgICAgICAgXHRiYWNrZ3JvdW5kLWNvbG9yOiAjM0I0MjUyO1xuICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgICBmb250LWZhbWlseTogJ0lNIEZlbGwgRnJlbmNoIENhbm9uJywgc2VyaWY7XG4gICAgICAgICAgY29sb3I6ICNEOERFRTk7XG4gICAgICAgIH1cblxuICAgICAgICBpbWcge1xuICAgICAgICAgIHdpZHRoOiAxMDAlO1xuICAgICAgICB9XG5cbiAgICAgICAgLmhlYWRlciB7XG4gICAgICAgICAgbWFyZ2luLWJvdHRvbTogMDtcbiAgICAgICAgfVxuXG4gICAgICAgIC5mb290ZXIge1xuICAgICAgICAgIHdpZHRoOiAzMCU7XG4gICAgICAgIH1cblxuICAgICAgICBociB7XG4gICAgICAgICAgd2lkdGg6IDUwJTtcbiAgICAgICAgICBib3JkZXI6IDA7XG4gICAgICAgICAgaGVpZ2h0OiAycHg7XG4gICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogbGluZWFyLWdyYWRpZW50KHRvIHJpZ2h0LCByZ2JhKDc2LCA4NiwgMTA2LCAwKSwgcmdiYSg3NiwgODYsIDEwNiwgMC43NSksIHJnYmEoNzYsIDg2LCAxMDYsIDApKTtcbiAgICAgICAgICBtYXJnaW46IDFlbSBhdXRvO1xuICAgICAgICB9XG5cbiAgICAgICAgaDEge1xuICAgICAgICAgIGZvbnQtc2l6ZTogNDAwJTtcbiAgICAgICAgICBmb250LXN0eWxlOiBpdGFsaWM7XG4gICAgICAgICAgbWFyZ2luOiAwIDFlbSBhdXRvO1xuICAgICAgICB9XG5cbiAgICAgICAgaDIge1xuICAgICAgICAgIG1hcmdpbi1ib3R0b206IDAuMmVtO1xuICAgICAgICB9XG5cbiAgICAgICAgaDMge1xuICAgICAgICAgIGZvbnQtc2l6ZTogMC45ZW07XG4gICAgICAgIH1cblxuICAgICAgICBhIHtcbiAgICAgICAgICBjb2xvcjogI0VCQ0I4QjtcbiAgICAgICAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7XG4gICAgICAgIH1cblxuICAgICAgICBwIHtcbiAgICAgICAgICBmb250LXNpemU6IDAuOGVtO1xuICAgICAgICB9XG5cbiAgICAgICAgcC5kZXNjIHtcbiAgICAgICAgICBmb250LXN0eWxlOiBpdGFsaWM7XG4gICAgICAgICAgbWFyZ2luLXRvcDogMDtcbiAgICAgICAgfVxuICAgICAgYH08L3N0eWxlPlxuICAgIDwvbWFpbj5cbiAgKTtcbn1cblxuZXhwb3J0IGRlZmF1bHQgSW5kZXg7XG4iXX0= */\n/*@ sourceURL=/Users/jeharrison/Development/mouseholepress/pages/index.js */"));
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);

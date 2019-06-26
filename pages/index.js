@@ -15,10 +15,7 @@ function Index() {
   return (
     <main>
       <link href="https://fonts.googleapis.com/css?family=IM+Fell+French+Canon:400,400i&display=swap" rel="stylesheet"/>
-      <img src="static/images/banner.png" srcSet="static/images/banner2x.png 2x" alt="Header" />
-      <h1>THE ARTEFACT</h1>
-      <h3>Sounds of deep, forgotten places to be played as the years drift past.</h3>
-      <hr />
+      <img className="header" src="static/images/banner.png" srcSet="static/images/banner2x.png 2x" alt="Header" />
       <Player name="A Day" desc="Five Seconds" file="005_day" />
       <Player name="A Week" desc="Ten Seconds" file="010_week" />
       <Player name="A Month" desc="Twenty Seconds" file="020_month" />
@@ -46,6 +43,10 @@ function Index() {
 
         img {
           width: 100%;
+        }
+
+        .header {
+          margin-bottom: 0;
         }
 
         .footer {
