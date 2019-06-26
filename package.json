@@ -9,6 +9,7 @@
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-h5-audio-player": "^1.2.1",
+    "react-helmet": "^5.2.1",
     "react-loading-overlay": "^1.0.1"
   }
 }
