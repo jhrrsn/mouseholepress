@@ -46,7 +46,7 @@ function Index() {
         }
 
         .header {
-          margin-bottom: 0;
+          margin-bottom: 1em;
         }
 
         .footer {
