@@ -35,10 +35,10 @@ function Index() {
       <br />
       <style jsx global>{`
         body {
-        	background-color: #3B4252;
+        	background-color: #f8f2e4;
           text-align: center;
           font-family: 'IM Fell French Canon', serif;
-          color: #D8DEE9;
+          color: #3f6f60;
         }
 
         img {
@@ -76,7 +76,7 @@ function Index() {
         }
 
         a {
-          color: #EBCB8B;
+          color: #ad936d;
           text-decoration: none;
         }
 
